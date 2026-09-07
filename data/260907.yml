@@ -2,21 +2,21 @@ about:
   description: "The One CD for All {applications, platforms, operations}"
   license: Apache-2.0
   homepage: https://pipecd.dev
-  head: 3321879
+  head: 64c2641
   archived: false
   latestVersion: "v0.58.0"
-  collectedAt: 2026-09-07T05:13:31Z
+  collectedAt: 2026-09-07T19:19:12Z
 timeline:
   created: 2020-06-12
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-23
 popularity:
   star: 1353
   watcher: 17
-  fork: 359
+  fork: 360
   release: 216
   contributor: 152
-  pullRequest: 5718
+  pullRequest: 5719
   issue: 1555
 language:
   Go: 5887749
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 2
-    mergedPR: 114
-    openPR: 47
+    mergedPR: 117
+    openPR: 45
     closedIssue: 4
     openIssue: 9
-    commit: 137
+    commit: 140
   last60d:
     since: 2026-07-09
     release: 2
-    mergedPR: 184
-    openPR: 65
+    mergedPR: 187
+    openPR: 63
     closedIssue: 18
     openIssue: 37
-    commit: 207
+    commit: 210
   last90d:
     since: 2026-06-09
     release: 4
-    mergedPR: 225
-    openPR: 73
+    mergedPR: 228
+    openPR: 71
     closedIssue: 23
     openIssue: 44
-    commit: 266
+    commit: 269
   last180d:
     since: 2026-03-11
     release: 5
-    mergedPR: 376
-    openPR: 78
+    mergedPR: 379
+    openPR: 76
     closedIssue: 45
     openIssue: 68
-    commit: 382
+    commit: 385
   last360d:
     since: 2025-09-12
     release: 22
-    mergedPR: 553
-    openPR: 78
+    mergedPR: 556
+    openPR: 76
     closedIssue: 105
     openIssue: 90
-    commit: 542
+    commit: 545
   last720d:
     since: 2024-09-17
     release: 59
-    mergedPR: 1365
-    openPR: 78
+    mergedPR: 1368
+    openPR: 76
     closedIssue: 191
     openIssue: 109
-    commit: 1343
+    commit: 1346
 total:
   release: 216
-  mergedPR: 5016
-  openPR: 78
+  mergedPR: 5019
+  openPR: 76
   closedIssue: 1405
   openIssue: 150
-  commit: 5363
+  commit: 5366
 ---
 path: /home/runner/.x-repo/github.com/pipe-cd/pipecd
-collectedAt: 2026-09-07T05:13:45Z
+collectedAt: 2026-09-07T19:19:27Z
 loc:
   Go:
     code: 236322
@@ -195,19 +195,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 128998
-    blanks: 40370
-    files: 1822
+    comments: 129091
+    blanks: 40429
+    files: 1824
   Text:
     code: 0
     comments: 786
     blanks: 160
     files: 45
 total:
-  code: 728368
-  comments: 191590
-  blanks: 110786
-  files: 11320
+  code: 728633
+  comments: 191683
+  blanks: 110883
+  files: 11322
 ---
 date: "2026-08-24"
 repo:
@@ -392,7 +392,7 @@ checks:
       - 'Info:   1 out of   1 npmCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:13:51+00:00
+  collectedAt: 2026-09-07T19:19:31+00:00
   platform:
     darwin/arm64:
       name:  pipectl_v0.58.0_darwin_arm64
