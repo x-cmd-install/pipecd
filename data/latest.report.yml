@@ -5,7 +5,7 @@ about:
   head: 64c2641
   archived: false
   latestVersion: "v0.58.0"
-  collectedAt: 2026-09-08T02:27:29Z
+  collectedAt: 2026-09-08T04:59:53Z
 timeline:
   created: 2020-06-12
   lastCommit: 2026-09-07
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-10
     release: 2
     mergedPR: 183
-    openPR: 62
+    openPR: 63
     closedIssue: 17
     openIssue: 33
     commit: 210
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-10
     release: 4
     mergedPR: 227
-    openPR: 69
+    openPR: 70
     closedIssue: 22
     openIssue: 44
     commit: 269
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-12
     release: 5
     mergedPR: 378
-    openPR: 75
+    openPR: 76
     closedIssue: 45
     openIssue: 68
     commit: 385
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-13
     release: 22
     mergedPR: 556
-    openPR: 75
+    openPR: 76
     closedIssue: 105
     openIssue: 90
     commit: 545
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-18
     release: 59
     mergedPR: 1366
-    openPR: 75
+    openPR: 76
     closedIssue: 191
     openIssue: 109
     commit: 1345
 total:
   release: 216
   mergedPR: 5019
-  openPR: 75
+  openPR: 76
   closedIssue: 1405
   openIssue: 150
   commit: 5366
 ---
 path: /home/runner/.x-repo/github.com/pipe-cd/pipecd
-collectedAt: 2026-09-08T02:27:38Z
+collectedAt: 2026-09-08T05:00:03Z
 loc:
   Go:
     code: 236322
