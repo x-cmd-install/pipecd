@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24188640,
       "digest": "sha256:759845926e471ff891dd5447359767180fb47ab436e99c9bfafa9931e9d74e25",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-08-23T03:29:15Z",
       "updated_at": "2026-08-23T03:29:17Z",
       "browser_download_url": "https://github.com/pipe-cd/pipecd/releases/download/v0.58.0/pipectl_v0.58.0_darwin_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 78277338,
       "digest": "sha256:46a3ebe798068a95d578ef3ec3c543eb6a7f701b3c6d57f788e2c74268cd1004",
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2026-08-23T03:29:15Z",
       "updated_at": "2026-08-23T03:29:19Z",
       "browser_download_url": "https://github.com/pipe-cd/pipecd/releases/download/v0.58.0/piped_v0.58.0_linux_amd64"

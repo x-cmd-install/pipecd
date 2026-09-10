@@ -7,7 +7,7 @@ about:
   latestVersion: "pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0"
   latestRelease: "pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0"
   latestPrerelease: "v0.55.1-rc1"
-  collectedAt: 2026-09-10T17:27:56Z
+  collectedAt: 2026-09-10T23:51:09Z
 timeline:
   created: 2020-06-12
   lastCommit: 2026-09-10
@@ -90,7 +90,7 @@ total:
   commit: 5372
 ---
 path: /home/runner/.x-repo/github.com/pipe-cd/pipecd
-collectedAt: 2026-09-10T17:28:06Z
+collectedAt: 2026-09-10T23:51:19Z
 loc:
   Go:
     code: 236322
