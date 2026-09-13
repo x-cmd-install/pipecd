@@ -14,11 +14,11 @@ x install pipecd
 
 ## Code insight
 
-Total: **709,807** lines of code across **6774** files in the top 5 languages.
+Total: **709,850** lines of code across **6775** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 236,322 | 31,796 | 34,250 | 1048 |
+| Go | 236,365 | 31,812 | 34,263 | 1049 |
 | JavaScript | 150,884 | 24,538 | 17,308 | 1772 |
 | Json | 91,001 | 0 | 0 | 44 |
 | Yaml | 70,406 | 994 | 452 | 649 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0` (2026-09-09)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,354 · **Forks**: 362 · **Open issues**: 1,557 · **Contributors**: 153
+- **Stars**: 1,355 · **Forks**: 364 · **Open issues**: 1,558 · **Contributors**: 154
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5027 · **Open PRs**: 82 · **Closed issues**: 1406 · **Open issues**: 151 · **Commits**: 5374
+- **Releases**: 217 · **Merged PRs**: 5029 · **Open PRs**: 81 · **Closed issues**: 1406 · **Open issues**: 152 · **Commits**: 5376
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 103 | 53 | 5 | 6 | 148 |
-| last60d | 2026-07-14 | 3 | 178 | 68 | 15 | 29 | 218 |
-| 90d | 2026-06-14 | 5 | 232 | 77 | 23 | 45 | 277 |
-| last180d | 2026-03-16 | 6 | 380 | 81 | 45 | 68 | 393 |
-| 360d | 2025-09-17 | 22 | 554 | 82 | 106 | 91 | 553 |
-| last720d | 2024-09-22 | 60 | 1371 | 82 | 192 | 110 | 1349 |
+| 30d | 2026-08-14 | 3 | 102 | 54 | 4 | 7 | 139 |
+| last60d | 2026-07-15 | 3 | 178 | 67 | 15 | 30 | 199 |
+| 90d | 2026-06-15 | 5 | 234 | 76 | 23 | 46 | 277 |
+| last180d | 2026-03-17 | 6 | 381 | 80 | 45 | 69 | 387 |
+| 360d | 2025-09-18 | 21 | 551 | 81 | 106 | 92 | 536 |
+| last720d | 2024-09-23 | 60 | 1373 | 81 | 192 | 111 | 1351 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:07:20Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:15:33Z._
