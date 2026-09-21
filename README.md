@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0` (2026-09-09)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 8
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5032 · **Open PRs**: 89 · **Closed issues**: 1407 · **Open issues**: 155 · **Commits**: 5379
+- **Releases**: 217 · **Merged PRs**: 5033 · **Open PRs**: 88 · **Closed issues**: 1407 · **Open issues**: 155 · **Commits**: 5380
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 83 | 66 | 4 | 11 | 53 |
-| last60d | 2026-07-22 | 3 | 155 | 76 | 11 | 32 | 183 |
-| 90d | 2026-06-22 | 5 | 231 | 80 | 22 | 49 | 247 |
-| last180d | 2026-03-24 | 6 | 371 | 88 | 45 | 70 | 385 |
-| 360d | 2025-09-25 | 16 | 532 | 89 | 104 | 94 | 529 |
-| last720d | 2024-09-30 | 59 | 1354 | 89 | 192 | 114 | 1335 |
+| 30d | 2026-08-22 | 2 | 70 | 65 | 3 | 9 | 54 |
+| last60d | 2026-07-23 | 3 | 152 | 74 | 10 | 31 | 184 |
+| 90d | 2026-06-23 | 5 | 231 | 79 | 21 | 48 | 248 |
+| last180d | 2026-03-25 | 6 | 370 | 87 | 44 | 70 | 386 |
+| 360d | 2025-09-26 | 16 | 531 | 88 | 104 | 94 | 530 |
+| last720d | 2024-10-01 | 59 | 1352 | 88 | 192 | 114 | 1334 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:43:09Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:28:23Z._
