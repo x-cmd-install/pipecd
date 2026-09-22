@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 70 | 65 | 3 | 9 | 54 |
-| last60d | 2026-07-23 | 3 | 152 | 74 | 10 | 31 | 184 |
-| 90d | 2026-06-23 | 5 | 231 | 79 | 21 | 48 | 248 |
-| last180d | 2026-03-25 | 6 | 370 | 87 | 44 | 70 | 386 |
-| 360d | 2025-09-26 | 16 | 531 | 88 | 104 | 94 | 530 |
-| last720d | 2024-10-01 | 59 | 1352 | 88 | 192 | 114 | 1334 |
+| 30d | 2026-08-23 | 2 | 67 | 60 | 3 | 7 | 54 |
+| last60d | 2026-07-24 | 3 | 152 | 73 | 10 | 28 | 184 |
+| 90d | 2026-06-24 | 5 | 227 | 79 | 21 | 48 | 248 |
+| last180d | 2026-03-26 | 6 | 370 | 87 | 44 | 70 | 386 |
+| 360d | 2025-09-27 | 15 | 531 | 88 | 104 | 94 | 530 |
+| last720d | 2024-10-02 | 59 | 1350 | 88 | 192 | 114 | 1328 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:28:23Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:24:47Z._
