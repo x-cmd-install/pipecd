@@ -4,7 +4,7 @@
 
 The One CD for All {applications, platforms, operations}
 
-[![x-cmd/install — pipecd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pipecd.svg?lang=zh)](https://x-cmd.com/install/pipecd)
+[![x-cmd/install — pipecd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pipecd.svg?lang=zh)](https://x-cmd.com/install/pipecd)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install pipecd
 
 ## 代码洞察
 
-合计: **710,136** 行代码（覆盖前 5 种语言、共 **6776** 个文件）。
+合计: **710,160** 行代码（覆盖前 5 种语言、共 **6776** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 236,663 | 31,860 | 34,311 | 1050 |
+| Go | 236,687 | 31,867 | 34,323 | 1050 |
 | JavaScript | 150,884 | 24,538 | 17,308 | 1772 |
 | Json | 91,001 | 0 | 0 | 44 |
 | Yaml | 70,406 | 994 | 452 | 649 |
@@ -43,27 +43,27 @@ x install pipecd
 ## 发布
 
 - **最新版本**: `pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0` (2026-09-09)
-- **最近提交**: 2026-09-20
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 1,356 · **Fork**: 365 · **开放 issue**: 1,562 · **贡献者**: 154
+- **Star**: 1,356 · **Fork**: 364 · **开放 issue**: 1,563 · **贡献者**: 154
 
 ## 累计统计
 
-- **发布数**: 217 · **已合并 PR**: 5033 · **开放 PR**: 88 · **已关闭 issue**: 1407 · **开放 issue**: 155 · **提交数**: 5380
+- **发布数**: 217 · **已合并 PR**: 5037 · **开放 PR**: 88 · **已关闭 issue**: 1409 · **开放 issue**: 154 · **提交数**: 5384
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 67 | 60 | 3 | 7 | 54 |
-| last60d | 2026-07-24 | 3 | 152 | 73 | 10 | 28 | 184 |
-| 90d | 2026-06-24 | 5 | 227 | 79 | 21 | 48 | 248 |
-| last180d | 2026-03-26 | 6 | 370 | 87 | 44 | 70 | 386 |
-| 360d | 2025-09-27 | 15 | 531 | 88 | 104 | 94 | 530 |
-| last720d | 2024-10-02 | 59 | 1350 | 88 | 192 | 114 | 1328 |
+| 30d | 2026-08-24 | 1 | 69 | 58 | 3 | 7 | 58 |
+| last60d | 2026-07-25 | 3 | 156 | 73 | 10 | 29 | 188 |
+| 90d | 2026-06-25 | 4 | 230 | 79 | 21 | 49 | 252 |
+| last180d | 2026-03-27 | 6 | 373 | 87 | 44 | 71 | 390 |
+| 360d | 2025-09-28 | 15 | 535 | 88 | 106 | 93 | 534 |
+| last720d | 2024-10-03 | 59 | 1353 | 88 | 194 | 113 | 1330 |
 
 ## Release 资产
 
@@ -87,4 +87,4 @@ pipecd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:24:48Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:29:10Z._
