@@ -14,14 +14,14 @@ x install pipecd
 
 ## Code insight
 
-Total: **709,963** lines of code across **6776** files in the top 5 languages.
+Total: **710,356** lines of code across **6777** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 236,687 | 31,867 | 34,323 | 1050 |
+| Go | 237,078 | 31,880 | 34,356 | 1051 |
 | JavaScript | 150,884 | 24,538 | 17,308 | 1772 |
 | Json | 90,804 | 0 | 0 | 44 |
-| Yaml | 70,406 | 994 | 452 | 649 |
+| Yaml | 70,408 | 994 | 452 | 649 |
 | Svg | 41,178 | 37 | 0 | 3261 |
 
 ## OpenSSF Scorecard
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,358 · **Forks**: 365 · **Open issues**: 1,564 · **Contributors**: 154
+- **Stars**: 1,358 · **Forks**: 366 · **Open issues**: 1,564 · **Contributors**: 155
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5053 · **Open PRs**: 74 · **Closed issues**: 1409 · **Open issues**: 155 · **Commits**: 5400
+- **Releases**: 217 · **Merged PRs**: 5058 · **Open PRs**: 63 · **Closed issues**: 1410 · **Open issues**: 154 · **Commits**: 5405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 1 | 57 | 40 | 2 | 8 | 74 |
-| last60d | 2026-07-27 | 3 | 172 | 59 | 9 | 28 | 204 |
-| 90d | 2026-06-27 | 3 | 246 | 65 | 21 | 50 | 268 |
-| last180d | 2026-03-29 | 6 | 382 | 73 | 42 | 72 | 406 |
-| 360d | 2025-09-30 | 15 | 550 | 74 | 106 | 94 | 550 |
-| last720d | 2024-10-05 | 59 | 1365 | 74 | 193 | 113 | 1344 |
+| 30d | 2026-08-27 | 1 | 61 | 35 | 2 | 8 | 79 |
+| last60d | 2026-07-28 | 3 | 173 | 52 | 9 | 28 | 209 |
+| 90d | 2026-06-28 | 3 | 251 | 57 | 22 | 49 | 273 |
+| last180d | 2026-03-30 | 6 | 386 | 62 | 43 | 71 | 411 |
+| 360d | 2025-10-01 | 14 | 551 | 63 | 107 | 93 | 555 |
+| last720d | 2024-10-06 | 59 | 1370 | 63 | 194 | 112 | 1349 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:18:56Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:21:51Z._
