@@ -18,7 +18,7 @@ Total: **710,341** lines of code across **6777** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 237,063 | 31,879 | 34,356 | 1051 |
+| Go | 237,063 | 31,880 | 34,356 | 1051 |
 | JavaScript | 150,884 | 24,538 | 17,308 | 1772 |
 | Json | 90,804 | 0 | 0 | 44 |
 | Yaml | 70,408 | 994 | 452 | 649 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0` (2026-09-09)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-10-02
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,361 · **Forks**: 368 · **Open issues**: 1,568 · **Contributors**: 157
+- **Stars**: 1,361 · **Forks**: 368 · **Open issues**: 1,569 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5072 · **Open PRs**: 75 · **Closed issues**: 1412 · **Open issues**: 156 · **Commits**: 5419
+- **Releases**: 217 · **Merged PRs**: 5078 · **Open PRs**: 66 · **Closed issues**: 1412 · **Open issues**: 157 · **Commits**: 5425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 47 | 45 | 2 | 11 | 61 |
-| last60d | 2026-08-03 | 3 | 178 | 63 | 8 | 26 | 207 |
-| 90d | 2026-07-04 | 3 | 248 | 69 | 23 | 50 | 284 |
-| last180d | 2026-04-05 | 6 | 384 | 74 | 45 | 73 | 415 |
-| 360d | 2025-10-07 | 14 | 558 | 75 | 109 | 95 | 555 |
-| last720d | 2024-10-12 | 57 | 1365 | 75 | 194 | 112 | 1341 |
+| 30d | 2026-09-03 | 1 | 53 | 40 | 2 | 12 | 67 |
+| last60d | 2026-08-04 | 3 | 177 | 54 | 8 | 25 | 213 |
+| 90d | 2026-07-05 | 3 | 252 | 61 | 22 | 51 | 290 |
+| last180d | 2026-04-06 | 6 | 389 | 65 | 45 | 73 | 421 |
+| 360d | 2025-10-08 | 14 | 560 | 66 | 108 | 95 | 561 |
+| last720d | 2024-10-13 | 57 | 1371 | 66 | 194 | 113 | 1347 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:12:34Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:41:02Z._
