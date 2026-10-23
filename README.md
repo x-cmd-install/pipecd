@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,364 · **Forks**: 374 · **Open issues**: 1,578 · **Contributors**: 166
+- **Stars**: 1,365 · **Forks**: 378 · **Open issues**: 1,583 · **Contributors**: 166
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5125 · **Open PRs**: 60 · **Closed issues**: 1427 · **Open issues**: 151 · **Commits**: 5473
+- **Releases**: 217 · **Merged PRs**: 5125 · **Open PRs**: 70 · **Closed issues**: 1428 · **Open issues**: 155 · **Commits**: 5473
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 49 | 30 | 6 | 9 | 78 |
-| last60d | 2026-08-23 | 2 | 153 | 47 | 11 | 15 | 171 |
-| 90d | 2026-07-24 | 3 | 242 | 52 | 21 | 33 | 277 |
-| last180d | 2026-04-25 | 6 | 408 | 58 | 53 | 62 | 421 |
-| 360d | 2025-10-27 | 8 | 585 | 60 | 120 | 91 | 589 |
-| last720d | 2024-11-01 | 57 | 1394 | 60 | 203 | 109 | 1375 |
+| 30d | 2026-09-23 | 0 | 48 | 40 | 6 | 13 | 78 |
+| last60d | 2026-08-24 | 1 | 150 | 56 | 11 | 19 | 171 |
+| 90d | 2026-07-25 | 3 | 242 | 62 | 22 | 37 | 277 |
+| last180d | 2026-04-26 | 6 | 407 | 68 | 54 | 66 | 421 |
+| 360d | 2025-10-28 | 8 | 584 | 70 | 120 | 95 | 589 |
+| last720d | 2024-11-02 | 57 | 1394 | 70 | 204 | 113 | 1372 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:11:20Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:07:14Z._
