@@ -14,11 +14,11 @@ x install pipecd
 
 ## Code insight
 
-Total: **714,029** lines of code across **6815** files in the top 5 languages.
+Total: **714,038** lines of code across **6815** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 239,854 | 32,307 | 34,658 | 1065 |
+| Go | 239,863 | 32,306 | 34,661 | 1065 |
 | JavaScript | 150,884 | 24,538 | 17,308 | 1772 |
 | Json | 90,804 | 0 | 0 | 44 |
 | Yaml | 70,764 | 1,006 | 455 | 673 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,370 · **Forks**: 383 · **Open issues**: 1,597 · **Contributors**: 170
+- **Stars**: 1,370 · **Forks**: 384 · **Open issues**: 1,598 · **Contributors**: 171
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5158 · **Open PRs**: 73 · **Closed issues**: 1442 · **Open issues**: 155 · **Commits**: 5505
+- **Releases**: 217 · **Merged PRs**: 5159 · **Open PRs**: 75 · **Closed issues**: 1443 · **Open issues**: 155 · **Commits**: 5506
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 50 | 40 | 9 | 19 | 70 |
-| last60d | 2026-09-03 | 1 | 122 | 58 | 16 | 26 | 138 |
-| 90d | 2026-08-04 | 3 | 256 | 64 | 27 | 34 | 287 |
-| last180d | 2026-05-06 | 6 | 429 | 71 | 58 | 68 | 448 |
-| 360d | 2025-11-07 | 7 | 613 | 73 | 133 | 96 | 614 |
-| last720d | 2024-11-12 | 56 | 1414 | 73 | 215 | 111 | 1394 |
+| 30d | 2026-10-04 | 0 | 49 | 42 | 9 | 19 | 71 |
+| last60d | 2026-09-04 | 1 | 123 | 59 | 17 | 26 | 139 |
+| 90d | 2026-08-05 | 3 | 253 | 65 | 27 | 31 | 288 |
+| last180d | 2026-05-07 | 6 | 427 | 73 | 58 | 68 | 449 |
+| 360d | 2025-11-08 | 6 | 611 | 75 | 134 | 96 | 615 |
+| last720d | 2024-11-13 | 55 | 1413 | 75 | 216 | 111 | 1395 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:31:26Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:12:12Z._
