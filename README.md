@@ -14,7 +14,7 @@ x install pipecd
 
 ## Code insight
 
-Total: **714,454** lines of code across **6815** files in the top 5 languages.
+Total: **714,482** lines of code across **6815** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0` (2026-09-09)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,370 · **Forks**: 388 · **Open issues**: 1,600 · **Contributors**: 171
+- **Stars**: 1,369 · **Forks**: 388 · **Open issues**: 1,600 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5167 · **Open PRs**: 70 · **Closed issues**: 1445 · **Open issues**: 155 · **Commits**: 5514
+- **Releases**: 217 · **Merged PRs**: 5170 · **Open PRs**: 67 · **Closed issues**: 1446 · **Open issues**: 154 · **Commits**: 5517
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 56 | 37 | 9 | 20 | 79 |
-| last60d | 2026-09-06 | 1 | 127 | 51 | 18 | 27 | 147 |
-| 90d | 2026-08-07 | 3 | 260 | 61 | 27 | 31 | 296 |
-| last180d | 2026-05-09 | 6 | 433 | 67 | 58 | 68 | 457 |
-| 360d | 2025-11-10 | 6 | 619 | 70 | 136 | 96 | 623 |
-| last720d | 2024-11-15 | 55 | 1415 | 70 | 217 | 109 | 1399 |
+| 30d | 2026-10-07 | 0 | 58 | 34 | 9 | 19 | 82 |
+| last60d | 2026-09-07 | 1 | 129 | 48 | 19 | 26 | 150 |
+| 90d | 2026-08-08 | 3 | 263 | 58 | 28 | 30 | 299 |
+| last180d | 2026-05-10 | 6 | 436 | 64 | 59 | 67 | 460 |
+| 360d | 2025-11-11 | 6 | 622 | 67 | 137 | 95 | 626 |
+| last720d | 2024-11-16 | 55 | 1418 | 67 | 218 | 108 | 1399 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:02:19Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:08:26Z._
