@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `pkg/app/pipedv1/plugin/kubernetes_multicluster/v0.1.0` (2026-09-09)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-13
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,371 · **Forks**: 392 · **Open issues**: 1,615 · **Contributors**: 172
+- **Stars**: 1,371 · **Forks**: 392 · **Open issues**: 1,616 · **Contributors**: 172
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 5173 · **Open PRs**: 77 · **Closed issues**: 1447 · **Open issues**: 168 · **Commits**: 5521
+- **Releases**: 217 · **Merged PRs**: 5174 · **Open PRs**: 79 · **Closed issues**: 1448 · **Open issues**: 168 · **Commits**: 5522
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 47 | 44 | 8 | 34 | 49 |
-| last60d | 2026-09-14 | 0 | 108 | 59 | 17 | 39 | 145 |
-| 90d | 2026-08-15 | 2 | 239 | 68 | 25 | 43 | 291 |
-| last180d | 2026-05-17 | 5 | 428 | 74 | 56 | 78 | 462 |
-| 360d | 2025-11-18 | 6 | 618 | 77 | 137 | 110 | 624 |
-| last720d | 2024-11-23 | 53 | 1404 | 77 | 218 | 123 | 1389 |
+| 30d | 2026-10-15 | 0 | 47 | 44 | 9 | 34 | 50 |
+| last60d | 2026-09-15 | 0 | 107 | 60 | 18 | 39 | 146 |
+| 90d | 2026-08-16 | 2 | 237 | 70 | 26 | 43 | 292 |
+| last180d | 2026-05-18 | 5 | 428 | 76 | 57 | 78 | 463 |
+| 360d | 2025-11-19 | 6 | 619 | 79 | 137 | 110 | 625 |
+| last720d | 2024-11-24 | 53 | 1405 | 79 | 219 | 123 | 1390 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for pipecd lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:13:34Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:10:36Z._
